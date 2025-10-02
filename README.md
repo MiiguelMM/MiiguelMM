@@ -46,8 +46,8 @@ const miguelMelgarejo = {
     
     stack: {
         backend: ["Java", "Spring Boot", "JPA/Hibernate", "REST APIs"],
-        frontend: ["React", "JavaScript ES6+", "HTML5", "CSS3"],
-        databases: ["PostgreSQL", "MySQL", "H2"],
+        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Angular"],
+        databases: ["PostgreSQL", "MySQL", "MondgoDb"],
         devOps: ["Docker", "Jenkins", "SonarQube", "Nexus"]
     },
     
